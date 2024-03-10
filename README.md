@@ -3,7 +3,7 @@ RNA y Algo. Bioinsp. - Trabajo 01: Optimizacion Heuristica
 
 Fecha: 03/12/2024
 
-Asingatura: Redes Neuronales y Algoritmos Bioinspirados - RNA
+Asingatura: Redes Neuronales y Algoritmos Bioinspirados - RNA /n
 Profesor: Juan David Ospina Arango
 Facultad de Minas
 Universidad Nacional de Colombia
