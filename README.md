@@ -1,5 +1,4 @@
-# RNA-y-Algo.-Bioinsp.-Trabajo-01-OptimizacionHeurstica
-
+# Trabajo-01-OptimizacionHeurstica-RNA-y-Algo.-Bioinsp.-
 Fecha: 03/12/2024
 
 Asingatura: Redes Neuronales y Algoritmos Bioinspirados - RNA  
