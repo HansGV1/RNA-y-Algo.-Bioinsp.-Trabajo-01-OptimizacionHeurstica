@@ -1,14 +1,3 @@
-# Trabajo-01-OptimizacionHeurstica-RNA-y-Algo-Bioinsp
-Fecha: 03/12/2024
-
-Asingatura: Redes Neuronales y Algoritmos Bioinspirados - RNA  
-Profesor: Juan David Ospina Arango  
-Facultad de Minas  
-Universidad Nacional de Colombia  
-
-Grupo: 8
-Integrantes:
-- Hans Guillermo García Vargas - hggarciav@unal.edu.co
-- Daniel Metaute Medina - dmetaute@unal.edu.co
-- Juan Sebastián Zapata Echeverri - jzapataec@unal.edu.co
-- Juan José Monsalve Marín - jjmonsalvem@unal.edu.co
+version https://git-lfs.github.com/spec/v1
+oid sha256:75ae30181f1d2c9643c916402a4fb7d60b5bfe6e42886d0639533ccaa892bb36
+size 469
